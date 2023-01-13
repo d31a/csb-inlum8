@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://d31a.github.io/csb-inlum8/static/css/main.06084414.chunk.css",
+    "main.js": "https://d31a.github.io/csb-inlum8/static/js/main.e74a726a.chunk.js",
+    "main.js.map": "https://d31a.github.io/csb-inlum8/static/js/main.e74a726a.chunk.js.map",
+    "runtime-main.js": "https://d31a.github.io/csb-inlum8/static/js/runtime-main.1e36d62e.js",
+    "runtime-main.js.map": "https://d31a.github.io/csb-inlum8/static/js/runtime-main.1e36d62e.js.map",
+    "static/js/2.e1b34d08.chunk.js": "https://d31a.github.io/csb-inlum8/static/js/2.e1b34d08.chunk.js",
+    "static/js/2.e1b34d08.chunk.js.map": "https://d31a.github.io/csb-inlum8/static/js/2.e1b34d08.chunk.js.map",
+    "index.html": "https://d31a.github.io/csb-inlum8/index.html",
+    "static/css/main.06084414.chunk.css.map": "https://d31a.github.io/csb-inlum8/static/css/main.06084414.chunk.css.map",
+    "static/js/2.e1b34d08.chunk.js.LICENSE.txt": "https://d31a.github.io/csb-inlum8/static/js/2.e1b34d08.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1e36d62e.js",
+    "static/js/2.e1b34d08.chunk.js",
+    "static/css/main.06084414.chunk.css",
+    "static/js/main.e74a726a.chunk.js"
+  ]
+}
